@@ -17,6 +17,7 @@ In HTML file:
 - Eliminated the ul and li in the header nav bar >> it was an unnecessary designation.
 - Added title attribute to background image div. Also changed class to “background-image” to make more descriptive.
 - Standardized class of the sections within the main content: they all required the same styling (also true of the img and h2 in those sections), so giving them the same class allowed condensation of CSS rules
+- added unique ids to these sections for nav links
 - Added alt tags to images in main sections
 - Repeated class standardization for sidebar for same reason.
 - Did not add alt images to the sidebar: these illustrations are purely decorative, they do not add to understanding of the text.
