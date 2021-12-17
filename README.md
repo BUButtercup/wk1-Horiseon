@@ -32,6 +32,8 @@ In CSS file:
 - Merged the rules for the three sections in <main> using a standardized class selector
 - Did same for three sections in the <aside>
 
+I did not include a screen shot in this README, as I felt it would be more informative to just follow the link to the page, please let me know if I should have.
+  
 I would really appreciate any suggestions of improvements to my process or results that I could make to become a stronger developer.
 
 
